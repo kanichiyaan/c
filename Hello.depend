@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1626461450 source:c:\users\kanic\documents\programs\c program\hello\main.c
+	<stdio.h>
+
+1626461356 source:c:\users\kanic\documents\programs\c program\hello\2_variables.c
+	<stdio.h>
+
+1626461377 source:c:\users\kanic\documents\programs\c program\hello\3_literals.c
+	<stdio.h>
+
